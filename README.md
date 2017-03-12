@@ -1,6 +1,6 @@
 # EZYoukuUploader - Android library for eazily uploading videos to Youku
 
-An Android library that helps deverlopers easily create apps with the functionality of uploading videos to Youku.
+An Android library that helps developers easily create apps with the functionality of uploading videos to Youku.
 
 ![Demo Screenshot 1](https://github.com/jayxue/EZYoukuUploader/blob/master/EZYoukuUploaderSDK/src/main/res/raw/screenshot_1.png)
 ![Demo Screenshot 2](https://github.com/jayxue/EZYoukuUploader/blob/master/EZYoukuUploaderSDK/src/main/res/raw/screenshot_2.png)
